@@ -1,0 +1,4 @@
+git clone https://github.com/remy-delpech/git-begins.git
+git push -u origin main
+git push
+git push --tags
