@@ -1,5 +1,5 @@
 git clone https://github.com/remy-delpech/git-begins.git
-git push -u origin main
+git add .
+git commit -m "Message commit"
 git push
-git push --tags
 git pull
